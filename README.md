@@ -21,9 +21,9 @@ Technologies & Tools
 - Modern web development techniques
 
   Let's Connect
-- [LinkedIn](www.linkedin.com/in/abraham-dhuor27)
-- [Twitter](https://x.com/dhuor_makur?t=vc6qxLmdZMOezF5ui2-BDQ&s=09)**
-- [Email](makurdhuor2019@gmail.com)
+- LinkedIn www.linkedin.com/in/abraham-dhuor27 
+- Twitter https://x.com/dhuor_makur?t=vc6qxLmdZMOezF5ui2-BDQ&s=09)
+- Email makurdhuor2019@gmail.com
 
 "Code is like humor. When you have to explain it, it’s bad." - Cory House
 Happy coding! 🚀
