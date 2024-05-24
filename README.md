@@ -1,25 +1,32 @@
-About Me
+Hello, World!
 
-Hello, I'm Abraham M. Dhuor, a computer science enthusiast with a strong passion for development. Currently pursuing my becholar degree at Ramakrishna Mission Vivekanada Centenary College,Rahara,kolkata I am set to graduate in 30/5/2027. Over the course of my academic journey, I've acquired proficiency in various programming languages such as C,Latex,html&CSS.
-Skills
+I'm Abraham M. Dhuor, a passionate computer science enthusiast and aspiring developer. Currently, I'm a second-year student pursuing my B.Sc. Honors in Computer Science at Ramakrishna Mission Vivekananda centenary College,Rahara,Kolkata. With a strong foundation in R,C, data structures, discrete mathematics, HTML, CSS, and JavaScript, I'm eager to explore the exciting fields of Data Science and Artificial Intelligence.
 
-My skill set includes a strong foundation in C language and proficiency in using essential development tools. These skills have been honed through a combination of coursework and personal projects.
+ About Me
 
-I'm always open to collaboration and exploring new projects. If you have an interesting idea or are looking for a teammate, feel free to reach out.
-Contact Information
+- Education:B.Sc. Honors in Computer Science @ RKMVCC (Second Year)
+- Passion:Development, problem-solving, and continuous learning
+- Interests:Data Science, Artificial Intelligence, software development, and open-source contributions
 
-    📧 Email: makurdhuor2019@gmail.com
-    🔗 LinkedIn: Abraham M.Dhuor
+Technologies & Tools
 
-Goals
+- Languages: C, JavaScript,R 
+- Skills:Data Structures, Discrete Mathematics, HTML, CSS
+- Tools: Git, VS Code
 
-In the short term, I aim to learn more from the IT expects in differient environment of expertics, while in the long term, I aspire to developmet.
-Acknowledgments
+ What I'm Currently Learning
+- Data Science fundamentals(basic statistics)
+- Basics of Artificial Intelligence and Machine Learning
+- Advanced data structures
+- Modern web development techniques
 
-I am grateful for the support from seniors and my professors. It has contributed significantly to my growth as a developer.
-License
+  Let's Connect
+- [LinkedIn](www.linkedin.com/in/abraham-dhuor27)
+- [Twitter](https://x.com/dhuor_makur?t=vc6qxLmdZMOezF5ui2-BDQ&s=09)**
+- [Email](makurdhuor2019@gmail.com)
 
-
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
+Happy coding! 🚀
 
 <!---
 Makur123/Makur123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
