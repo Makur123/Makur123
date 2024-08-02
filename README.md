@@ -1,4 +1,3 @@
-[![Makur123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makur123)](https://github.com/Makur123/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Abraham M. Dhuor</h1>
 <h3 align="center">Aspiring Data Scientist & Full Stack Developer from India</h3>
 - 🔭 I’m currently working on [British Air Data Science Virtual Internship](https://github.com/Makur123/Bristish-Air_Virtual-Intenship)
