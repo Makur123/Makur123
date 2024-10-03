@@ -19,3 +19,13 @@
 
 ## GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Makur123&theme=onedark)
+
+## GitHub Actions
+![GitHub Actions Status](https://github.com/Makur123/Makur123/workflows/CI/badge.svg)
+
+## WakaTime Stats
+![Makur123's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makur123&layout=compact)
+
+## GIFs and Animations
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![SVG Animation](https://raw.githubusercontent.com/Makur123/Makur123/main/animation.svg)
