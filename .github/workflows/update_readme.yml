@@ -1,0 +1,28 @@
+name: Update README with Dynamic Content
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Backup Original README
+        run: cp Makur123 README_backup.md
+
+      - name: Update README with Dynamic Content
+        run: |
+          echo "\n\n## Dynamic Content" >> Makur123
+          echo "Last updated at $(date)" >> Makur123
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Makur123
+          git commit -m "Updated README with dynamic content"
+          git push
