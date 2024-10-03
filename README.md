@@ -24,7 +24,8 @@
 ![GitHub Actions Status](https://github.com/Makur123/Makur123/workflows/CI/badge.svg)
 
 ## WakaTime Stats
-![Makur123's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makur123&layout=compact)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Makur123)
+
 
 ## GIFs and Animations
 ![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
