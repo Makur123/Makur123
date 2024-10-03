@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abraham M. Dhuor</h1>
-<h3 align="center">Aspiring Data Scientist & Full Stack Developer from India</h3>
-- 🔭 I’m currently working on [British Air Data Science Virtual Internship](https://github.com/Makur123/Bristish-Air_Virtual-Intenship)
+<h3 align="center">Computer Science student @ RKMVCC</h3>
 
-- 🌱 I’m currently learning **ReactJs,Angular, C++,JAVA,Operating Systems and Software Engineering**
+- 🌱 I’m currently learning **C++,JAVA,Operating Systems and Software Engineering**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/ abraham-dhuor27](www.linkedin.com/in/ abraham-dhuor27)
 
-- 💬 Ask me about **C and Python for data Analysis**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **makurdhuor@gmail.com**
 
