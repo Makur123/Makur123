@@ -14,7 +14,7 @@
 
 <h2 align="center">Resume </h2>
 <p align="center">
-  <img src="https://file:///C:/Users/User2/Downloads/Abraham%20Makur%20Resume.pdf"/>
+  <img src="Abraham Makur Resume.pdf"/>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
