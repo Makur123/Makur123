@@ -12,9 +12,9 @@
 <a href="https://linkedin.com/in/abraham.m.dhuor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham.m.dhuor" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">WakaTime Stats</h2>
+<h2 align="center">Resume </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Makur123" alt="WakaTime Stats"/>
+  <img src="https://file:///C:/Users/User2/Downloads/Abraham%20Makur%20Resume.pdf"/>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
