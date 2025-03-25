@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abraham M. Dhuor</h1>
 <h3 align="center">Computer Science student @ RKMVCC</h3>
 
-- 🌱 I’m currently learning **C++,JAVA,Operating Systems and Software Engineering**
-- 💬 Ask me about **C and C++**
+- 🌱 I’m currently learning **DAA,DBMS,Computer Networking, Python for Data Analysis and Electronics**
+- 💬 Ask me about **DAA and DBMS**
 - 📫 How to reach me **makurdhuor@gmail.com**
 - 📄 My Resume (https://github.com/user-attachments/files/17408581/Abraham.Makur.Resume.pdf)
 <h3 align="left">Connect with me:</h3>
