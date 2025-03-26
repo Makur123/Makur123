@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abraham M. Dhuor</h1>
+<h1 align="center">Hi 👋, I'm M. Dhuor</h1>
 <h3 align="center">Computer Science student @ RKMVCC</h3>
 
 - 🌱 I’m currently learning **DAA,DBMS,Computer Networking, Python for Data Analysis and Electronics**
