@@ -12,12 +12,3 @@
 </p>
 
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Makur123&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<h2 align="center">GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Makur123&theme=onedark" alt="GitHub Trophies"/>
-</p>
