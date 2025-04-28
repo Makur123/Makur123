@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **DAA,DBMS,Computer Networking, Python for Data Analysis and Electronics**
 - 💬 Ask me about **DAA and DBMS**
 - 📫 How to reach me **makurdhuor@gmail.com**
-- 📄 My Resume https://drive.google.com/file/d/1tcBhV0f9ZAcQ9n70pthz7hD-OXV9aZUJ/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dhuor_makur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhuor_makur" height="30" width="40" /></a>
